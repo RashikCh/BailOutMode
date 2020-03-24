@@ -1,5 +1,7 @@
 ///// Latest Updates:
 
+3-24-2020 - 5 PM: Hello, I'm pretty sure this version still works on 1.8, I kind of got busy with real life and did not have the ability to add the bs.xml features or w/e (idk if it mattered) anyway I hear there may be an upcoming update so ima put off any update until then. 
+
 1-3-2020: - 10:48 PM: Hello, due to some weird changes in the game, some things did not work the same as before. Those issues have been resolved and a beta version will be releasing within a few minutes. I have to re-add ingame toggles but I just don't feel like doing that tonight.
 
 12-27-2019 - 4:28 AM: Hi, I didn't realize this was broken. I have fixed core functionality. Just need to fix the extra bits (hiding health bar, and maybe ingame toggles) but expect an update either later today 12-27 or 12-28, ty for ur patience.
